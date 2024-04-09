@@ -1,5 +1,5 @@
 ## Title: From the gff file with the merged peaks, select the peaks that fullfil certain criteria. Output a bed file with peak locations and fasta file with peak seq
-## Author: I. Moustakas, i.moustakas@lumc.nl
+## Author: I. Moustakas, i.m*@lumc.nl
 
 import re
 import argparse
